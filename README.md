@@ -5,7 +5,14 @@ Tutorial "Local Library" website written in Django.
 For detailed information about this project see the associated [MDN tutorial home page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website).
 
 ## Simple test for deployment on Heroku
+### reference: Heroku for django:
+* [Heroku with Django](https://devcenter.heroku.com/articles/getting-started-with-python#prepare-the-app)
+### Setup
+* For mac
+`brew install heroku/brew/heroku`
 
+* Login in Heroku CLI:
+`heroku login`
 
 ## Overview
 
